@@ -1,0 +1,4 @@
+[submodule "chuweiguo/chuweiguo.github.io"]
+	path = chuweiguo/chuweiguo.github.io
+	url = git@github.com:ChuweyBar/chuweiguo.github.io.git
+	branch = master

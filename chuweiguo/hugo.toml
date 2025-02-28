@@ -1,5 +1,0 @@
-baseURL = 'https://chuweiguo.github.io/'
-languageCode = 'en-us'
-title = 'Blog of Chuwei Guo'
-
-theme="hugo-PaperMod"

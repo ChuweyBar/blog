@@ -1,0 +1,24 @@
+languageCode = "en-AU"
+languageName = "English (Australia)"
+languageDirection = "ltr"
+weight = 1
+
+title = "Chuwei's Homepage"
+copyright = "&copy; 2025 Congo contributors"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  mainSections = ["samples"]
+  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+
+[params.author]
+  name = "Chuwei Guo"
+  image = "img/crop_chuwei.jpg"
+  headline = "I'm just really into robotics, I guess"
+  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+  links = [
+    { linkedin = "https://www.linkedin.com/in/chuweiguo/" },
+    { github = "https://github.com/ChuweyBar" },
+    { youtube = "https://www.youtube.com/@chuweiguo9475" },
+  ]

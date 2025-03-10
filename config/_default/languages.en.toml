@@ -1,5 +1,5 @@
-languageCode = "en-AU"
-languageName = "English (Australia)"
+languageCode = "en"
+languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
@@ -9,16 +9,17 @@ copyright = "&copy; 2025 Congo contributors"
 [params]
   dateFormat = "2 January 2006"
 
-  mainSections = ["samples"]
-  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  mainSections = ["projects", "ideas"]
+  description = ""
 
 [params.author]
   name = "Chuwei Guo"
   image = "img/crop_chuwei.jpg"
-  headline = "I'm just really into robotics, I guess"
-  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+  headline = "Guy Who's Really Into Robotics"
+  bio = "Software engineer / project manager in the robotics field. Always eager to share about fun things I see or do. :robot:"
   links = [
     { linkedin = "https://www.linkedin.com/in/chuweiguo/" },
     { github = "https://github.com/ChuweyBar" },
     { youtube = "https://www.youtube.com/@chuweiguo9475" },
+    { email = "mailto:chuwei0807@gmail.com" },
   ]
